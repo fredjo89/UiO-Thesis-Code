@@ -6,3 +6,7 @@ The notebook train_test contains the script to train the models using cross valu
 In the folder "models" are the implemented models explored. 
 
 In the folder "node_features" are the notebooks used to create the additional graph-features for the nodes. 
+
+The python-file graph_preprocessing contains functions to prepross the input-data. These are used in the beginning of the train_test-script. 
+
+The python-file helper_functions contains sone additional helper-functions used in the train_test-script, such as computing ROC-curves.
